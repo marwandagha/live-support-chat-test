@@ -18,7 +18,7 @@
 
 
 ### Config
-- The *config/constants.php* contains all the needed configuration variables.
+- The *config/constants.php* contains all the needed configuration variables with error codes.
 
 ### Mailing
 - Place your Mailing account info in .env file to receive System emails
