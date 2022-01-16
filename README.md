@@ -14,6 +14,8 @@
 ### Cron Jobs
 - In *app/Console/Commands* you can find the functionality of requested cron job
 - In *app/kernal* you should specify cron job recalling time
+- To run the schedule use command *php artisan schedule:run*
+
 
 ### Config
 - The *config/constants.php* contains all the needed configuration variables.
